@@ -1,4 +1,4 @@
-```markdown
+
 # User and Group Creation Script
 
 This repository contains a bash script, `create_users.sh`, designed to automate the creation of users and groups based on a provided text file. The script sets up home directories, generates random passwords, logs actions, and stores passwords securely.
@@ -95,4 +95,5 @@ sudo groupdel mayowa
 sudo groupdel dev
 sudo groupdel www-data
 ```
+
 
